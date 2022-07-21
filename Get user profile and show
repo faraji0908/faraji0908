@@ -1,0 +1,8 @@
+name = input("enter name : ")
+famil = input("enter family : ")
+age = int(input('Enter a age: ')) 
+
+print("------------------------")
+
+print("salam ",name,famil)
+print("age :",age," 0_0")
